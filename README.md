@@ -1,1 +1,2 @@
-# Gplot
+# Rplots
+## Some R plot scripts
